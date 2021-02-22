@@ -1,0 +1,8 @@
+2021-02-19T16:37:20.982: NAOmi is Connected!
+2021-02-19T16:37:22.219: NAOmi is in standing position
+2021-02-19T16:37:23.093: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-19T16:37:23.897: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-19T16:37:24.155: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-19T16:37:24.517: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-19T16:37:24.938: NAOmi said: Hello World
+2021-02-19T16:37:43.437: NAOmi is in siting position

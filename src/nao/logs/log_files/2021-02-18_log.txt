@@ -1,0 +1,101 @@
+2021-02-18T11:24:24.016: NAOmi is Connected!
+2021-02-18T11:24:25.780: NAOmi is in standing position
+2021-02-18T11:24:26.896: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:24:27.188: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:24:27.505: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:24:29.176: NAOmi said: Hello World
+2021-02-18T11:25:07.327: NAOmi is in siting position
+2021-02-18T11:25:56.563: NAOmi is Connected!
+2021-02-18T11:26:10.004: NAOmi is in standing position
+2021-02-18T11:26:11.070: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:26:11.382: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:26:11.734: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:26:13.150: NAOmi said: Hello World
+2021-02-18T11:26:58.765: NAOmi is in siting position
+2021-02-18T11:27:25.066: NAOmi is Connected!
+2021-02-18T11:27:27.733: NAOmi is in standing position
+2021-02-18T11:27:28.667: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:27:28.931: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:27:29.210: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:27:29.638: NAOmi said: Hello World
+2021-02-18T11:27:50.590: NAOmi is in siting position
+2021-02-18T11:34:14.149: NAOmi is Connected!
+2021-02-18T11:34:29.326: NAOmi is in standing position
+2021-02-18T11:35:17.312: NAOmi is Connected!
+2021-02-18T11:35:17.731: NAOmi is in standing position
+2021-02-18T11:35:18.966: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:35:19.231: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:35:19.541: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:35:19.958: NAOmi said: Hello World
+2021-02-18T11:35:43.775: NAOmi is in siting position
+2021-02-18T11:40:15.712: NAOmi is Connected!
+2021-02-18T11:40:32.113: NAOmi is in standing position
+2021-02-18T11:40:33.028: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:40:33.926: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:40:34.307: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:40:34.726: NAOmi said: Hello World
+2021-02-18T11:40:58.459: NAOmi is in siting position
+2021-02-18T11:41:13.898: NAOmi is Connected!
+2021-02-18T11:41:37.378: NAOmi is in standing position
+2021-02-18T11:41:38.420: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:41:39.393: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:41:39.856: NAOmi LShoulderPitch set to 0.5f with 0.5f speed
+2021-02-18T11:41:40.289: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:41:40.709: NAOmi said: Hello World
+2021-02-18T11:42:09.625: NAOmi is in siting position
+2021-02-18T11:42:32.027: NAOmi is Connected!
+2021-02-18T11:42:57.119: NAOmi is in standing position
+2021-02-18T11:42:59.091: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:43:00.061: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:43:01.123: NAOmi LShoulderPitch set to 0.5f with 0.5f speed
+2021-02-18T11:43:01.708: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:43:02.237: NAOmi said: Hello World
+2021-02-18T11:43:13.682: NAOmi is in siting position
+2021-02-18T11:43:48.045: NAOmi is Connected!
+2021-02-18T11:44:08.921: NAOmi is in standing position
+2021-02-18T11:44:09.915: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:44:10.903: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:44:11.198: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:44:11.640: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:44:12.070: NAOmi said: Hello World
+2021-02-18T11:50:29.014: NAOmi is Connected!
+2021-02-18T11:50:50.795: NAOmi is in standing position
+2021-02-18T11:50:59.248: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:51:00.388: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:51:01.077: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:51:01.930: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:51:02.798: NAOmi HeadYaw set to 0.3f with 0.5f speed
+2021-02-18T11:51:03.419: NAOmi said: Hello World
+2021-02-18T11:51:10.637: NAOmi is in siting position
+2021-02-18T11:53:57.012: NAOmi is Connected!
+2021-02-18T11:54:20.157: NAOmi is in standing position
+2021-02-18T11:54:21.020: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:54:22.462: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:54:22.824: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:54:23.356: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:54:23.919: NAOmi HeadYaw set to 0.3f with 0.5f speed
+2021-02-18T11:54:24.411: NAOmi said: Hello World
+2021-02-18T11:55:14.357: NAOmi is Connected!
+2021-02-18T11:55:17.791: NAOmi is in standing position
+2021-02-18T11:55:19.058: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:55:20.021: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:55:20.327: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:55:20.828: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:55:21.259: NAOmi said: Hello World
+2021-02-18T11:56:09.134: NAOmi is in siting position
+2021-02-18T11:58:51.848: NAOmi is Connected!
+2021-02-18T11:58:54.632: NAOmi is in standing position
+2021-02-18T11:58:55.740: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:58:56.676: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T11:58:56.962: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T11:58:57.376: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T11:58:57.802: NAOmi said: Hello World
+2021-02-18T11:59:20.103: NAOmi is in siting position
+2021-02-18T12:01:41.474: NAOmi is Connected!
+2021-02-18T12:01:56.995: NAOmi is in standing position
+2021-02-18T12:01:57.892: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T12:01:58.726: NAOmi LShoulderPitch set to 0.2f with 0.5f speed
+2021-02-18T12:01:58.994: NAOmi LShoulderPitch set to 0.1f with 0.5f speed
+2021-02-18T12:01:59.377: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-18T12:01:59.804: NAOmi said: Hello World
+2021-02-18T12:02:19.559: NAOmi is in siting position

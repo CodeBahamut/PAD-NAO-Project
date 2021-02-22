@@ -1,0 +1,104 @@
+2021-02-17T11:42:30.252: NAOmi is Connected!
+2021-02-17T11:42:38.373: NAOmi is in standing position
+2021-02-17T11:42:39.856: NAOmi said: Hello World
+2021-02-17T11:42:48.973: NAOmi is in siting position
+2021-02-17T11:42:50.354: NAOmi said: Goodbye World
+2021-02-17T11:43:32.694: NAOmi is Connected!
+2021-02-17T11:43:40.854: NAOmi is in standing position
+2021-02-17T11:43:42.608: NAOmi said: Hello World
+2021-02-17T11:43:51.681: NAOmi is in siting position
+2021-02-17T11:43:53.081: NAOmi said: Goodbye World
+2021-02-17T11:51:58.982: NAOmi is Connected!
+2021-02-17T11:52:07.181: NAOmi is in standing position
+2021-02-17T11:52:08.697: NAOmi said: Hello World
+2021-02-17T11:52:17.760: NAOmi is in siting position
+2021-02-17T11:52:19.146: NAOmi said: Goodbye World
+2021-02-17T11:53:23.123: NAOmi is Connected!
+2021-02-17T11:53:31.290: NAOmi is in standing position
+2021-02-17T11:53:32.794: NAOmi said: Hello World
+2021-02-17T11:53:33.683: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T11:53:47.776: NAOmi is in siting position
+2021-02-17T11:53:49.175: NAOmi said: Goodbye World
+2021-02-17T11:54:34.469: NAOmi is Connected!
+2021-02-17T11:54:42.816: NAOmi is in standing position
+2021-02-17T11:54:44.641: NAOmi said: Hello World
+2021-02-17T11:54:45.528: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T11:54:55.567: NAOmi is in siting position
+2021-02-17T11:54:56.981: NAOmi said: Goodbye World
+2021-02-17T11:56:28.793: NAOmi is Connected!
+2021-02-17T11:56:41.981: NAOmi is in standing position
+2021-02-17T11:56:43.587: NAOmi said: Hello World
+2021-02-17T11:56:52.719: NAOmi is in siting position
+2021-02-17T11:56:54.107: NAOmi said: Goodbye World
+2021-02-17T11:57:56.427: NAOmi is Connected!
+2021-02-17T11:58:04.774: NAOmi is in standing position
+2021-02-17T11:58:06.353: NAOmi said: Hello World
+2021-02-17T11:58:15.621: NAOmi is in siting position
+2021-02-17T11:58:17.017: NAOmi said: Goodbye World
+2021-02-17T12:12:42.802: NAOmi is Connected!
+2021-02-17T12:12:50.941: NAOmi is in standing position
+2021-02-17T12:12:51.902: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T12:12:54.411: NAOmi said: Hello World
+2021-02-17T12:13:05.668: NAOmi is in siting position
+2021-02-17T12:13:07.082: NAOmi said: Goodbye World
+2021-02-17T12:19:13.555: NAOmi is Connected!
+2021-02-17T12:19:21.618: NAOmi is in standing position
+2021-02-17T12:20:43.322: NAOmi is Connected!
+2021-02-17T12:20:43.751: NAOmi is in standing position
+2021-02-17T12:22:11.586: NAOmi is Connected!
+2021-02-17T12:22:12.016: NAOmi is in standing position
+2021-02-17T12:23:19.597: NAOmi is Connected!
+2021-02-17T12:23:20.166: NAOmi is in standing position
+2021-02-17T12:24:16.058: NAOmi is Connected!
+2021-02-17T12:24:16.499: NAOmi is in standing position
+2021-02-17T12:28:18.678: NAOmi is Connected!
+2021-02-17T12:28:19.121: NAOmi is in standing position
+2021-02-17T12:33:41.192: NAOmi is Connected!
+2021-02-17T12:33:41.675: NAOmi is in standing position
+2021-02-17T12:37:37.704: NAOmi is Connected!
+2021-02-17T12:37:38.269: NAOmi is in standing position
+2021-02-17T12:40:33.580: NAOmi is Connected!
+2021-02-17T12:40:34.022: NAOmi is in standing position
+2021-02-17T12:40:42.036: NAOmi is Connected!
+2021-02-17T12:40:42.571: NAOmi is in standing position
+2021-02-17T12:43:33.587: NAOmi is Connected!
+2021-02-17T12:43:34.090: NAOmi is in standing position
+2021-02-17T12:44:00.755: NAOmi is Connected!
+2021-02-17T12:44:01.213: NAOmi is in standing position
+2021-02-17T12:44:29.385: NAOmi is Connected!
+2021-02-17T12:44:29.920: NAOmi is in standing position
+2021-02-17T12:46:08.557: NAOmi is Connected!
+2021-02-17T12:46:08.988: NAOmi is in standing position
+2021-02-17T12:46:28.760: NAOmi is Connected!
+2021-02-17T12:46:29.215: NAOmi is in standing position
+2021-02-17T12:57:45.456: NAOmi is Connected!
+2021-02-17T12:57:45.984: NAOmi is in standing position
+2021-02-17T12:57:46.947: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T12:57:49.729: NAOmi said: Hello World
+2021-02-17T12:58:07.130: NAOmi is in siting position
+2021-02-17T12:59:46.579: NAOmi is Connected!
+2021-02-17T12:59:59.647: NAOmi is in standing position
+2021-02-17T13:00:00.606: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T13:00:00.870: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-17T13:00:01.116: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-17T19:22:28.844: NAOmi is Connected!
+2021-02-17T19:22:30.422: NAOmi is in standing position
+2021-02-17T19:22:31.522: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T19:22:31.854: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-17T19:22:32.195: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-17T19:22:33.656: NAOmi said: Hello World
+2021-02-17T19:23:21.729: NAOmi is in siting position
+2021-02-17T22:22:57.301: NAOmi is Connected!
+2021-02-17T22:23:05.439: NAOmi is in standing position
+2021-02-17T22:23:06.374: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T22:23:06.632: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-17T22:23:06.907: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-17T22:23:08.360: NAOmi said: Hello World
+2021-02-17T22:23:28.149: NAOmi is in siting position
+2021-02-17T22:24:09.581: NAOmi is Connected!
+2021-02-17T22:24:27.670: NAOmi is in standing position
+2021-02-17T22:24:28.744: NAOmi RShoulderPitch set to 0.1f with 0.5f speed
+2021-02-17T22:24:30.045: NAOmi RShoulderPitch set to 0.2f with 0.5f speed
+2021-02-17T22:24:31.259: NAOmi RShoulderPitch set to 0.3f with 0.5f speed
+2021-02-17T22:24:33.418: NAOmi said: Hello World
+2021-02-17T22:24:55.571: NAOmi is in siting position
