@@ -16,19 +16,25 @@ public class Main {
                 break;
             default:
                 naoUrl = "localhost";
-                naoPort = 60701;
+                naoPort = 64035;
                 break;
         }
         naomi.connect(naoUrl, naoPort);
         naomi.stand();
-//        Music.playSong(naomi.getApplicationSession(), naomi.getName(), "pokemon.mp3");
-        naomi.moveLimb("RShoulderPitch", 0.1f, 0.5f);
-        naomi.moveLimb("LShoulderPitch", 0.2f, 0.5f);
-        naomi.moveLimb("LShoulderPitch", 0.1f, 0.5f);
-        naomi.moveLimb("RShoulderPitch", 0.3f, 0.5f);
-//        naomi.moveLimb("HeadYaw", 0.3f, 0.5f);
+        naomi.getPosture().walk(0.1f, 0f, 0f, 3000);
+        naomi.getPosture().walk(0.1f, 0.1f, 0f, 3000);
+        naomi.getPosture().walk(0.1f, 0f, 0.1f, 3000);
+        naomi.getPosture().walk(-0.1f, 0f, 0f, 3000);
+        naomi.getPosture().walk(0f, 0f, 0f, 1000);
+
+//        Music.playSong(naomi.getApplicationSession(), naomi.getName(), "douiyea_1613565391.mp3");
+//        naomi.getPosture().moveLimb("RShoulderPitch", 0.1f, 0.5f, 1000);
+//        naomi.getPosture().moveLimb("LShoulderPitch", 0.2f, 0.5f, 1000);
+//        naomi.getPosture().moveLimb("LShoulderPitch", 0.1f, 0.5f, 1000);
+//        naomi.getPosture().moveLimb("RShoulderPitch", 0.3f, 0.5f, 1000);
         Speak.say(naomi.getApplicationSession(), naomi.getName(), "Hello World");
-        Thread.sleep(1000);
         naomi.sit();
+        naomi.getPosture().walk(1f, 0f, 0f, 1000);
+
     }
 }

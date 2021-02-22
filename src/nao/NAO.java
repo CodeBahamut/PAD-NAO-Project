@@ -5,10 +5,12 @@ import com.aldebaran.qi.Session;
 import com.aldebaran.qi.helper.proxies.ALMotion;
 import com.aldebaran.qi.helper.proxies.ALRobotPosture;
 import nao.logs.Log;
+import nao.movement.postures.*;
 
 public class NAO {
     private String name;
     private Application application;
+    private Posture posture;
 
     public NAO(String name) {
         this.name = name;
@@ -33,18 +35,18 @@ public class NAO {
     public void stand() throws Exception {
         ALRobotPosture robotPosture = new ALRobotPosture(this.application.session());
         robotPosture.goToPosture("StandInit", 0.6f);
+        this.posture = new Standing(this.name, this.application.session());
         Log.newLog(this.name + " is in standing position");
     }
 
     public void sit() throws Exception {
         ALRobotPosture robotPosture = new ALRobotPosture(this.application.session());
         robotPosture.goToPosture("Sit", 0.6f);
+        this.posture = new Sitting(this.name, this.application.session());
         Log.newLog(this.name + " is in siting position");
     }
 
-    public void moveLimb(String limbs, float angle, float maxSpeed) throws Exception {
-        ALMotion motion = new ALMotion(this.application.session());
-        motion.angleInterpolationWithSpeed(limbs, angle, maxSpeed);
-        Log.newLog(this.name + " " + limbs + " set to " + angle + "f with " + maxSpeed + "f speed");
+    public Posture getPosture() {
+        return posture;
     }
 }
