@@ -32,7 +32,7 @@ public class Main {
 //        naomi.getPosture().moveLimb("LShoulderPitch", 0.2f, 0.5f, 1000);
 //        naomi.getPosture().moveLimb("LShoulderPitch", 0.1f, 0.5f, 1000);
 //        naomi.getPosture().moveLimb("RShoulderPitch", 0.3f, 0.5f, 1000);
-        naomi.getVoice().say("Beshaha");
+        naomi.getVoice().say("Hello World!");
 //        naomi.sit();
         naomi.getPosture().walk(1f, 0f, 0f, 1000);
 
