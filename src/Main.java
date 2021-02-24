@@ -16,24 +16,24 @@ public class Main {
                 break;
             default:
                 naoUrl = "localhost";
-                naoPort = 64035;
+                naoPort = 50050;
                 break;
         }
         naomi.connect(naoUrl, naoPort);
-        naomi.stand();
-        naomi.getPosture().walk(0.1f, 0f, 0f, 3000);
-        naomi.getPosture().walk(0.1f, 0.1f, 0f, 3000);
-        naomi.getPosture().walk(0.1f, 0f, 0.1f, 3000);
-        naomi.getPosture().walk(-0.1f, 0f, 0f, 3000);
-        naomi.getPosture().walk(0f, 0f, 0f, 1000);
-
-//        Music.playSong(naomi.getApplicationSession(), naomi.getName(), "douiyea_1613565391.mp3");
+//        naomi.stand();
+//        naomi.getPosture().walk(0.1f, 0f, 0f, 3000);
+//        naomi.getPosture().walk(0.1f, 0.1f, 0f, 3000);
+//        naomi.getPosture().walk(0.1f, 0f, 0.1f, 3000);
+//        naomi.getPosture().walk(-0.1f, 0f, 0f, 3000);
+//        naomi.getPosture().walk(0f, 0f, 0f, 1000);
+//
+////        Music.playSong(naomi.getApplicationSession(), naomi.getName(), "douiyea_1613565391.mp3");
 //        naomi.getPosture().moveLimb("RShoulderPitch", 0.1f, 0.5f, 1000);
 //        naomi.getPosture().moveLimb("LShoulderPitch", 0.2f, 0.5f, 1000);
 //        naomi.getPosture().moveLimb("LShoulderPitch", 0.1f, 0.5f, 1000);
 //        naomi.getPosture().moveLimb("RShoulderPitch", 0.3f, 0.5f, 1000);
-        Speak.say(naomi.getApplicationSession(), naomi.getName(), "Hello World");
-        naomi.sit();
+        naomi.getVoice().say("Beshaha");
+//        naomi.sit();
         naomi.getPosture().walk(1f, 0f, 0f, 1000);
 
     }

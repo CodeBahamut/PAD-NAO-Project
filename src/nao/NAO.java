@@ -6,11 +6,13 @@ import com.aldebaran.qi.helper.proxies.ALMotion;
 import com.aldebaran.qi.helper.proxies.ALRobotPosture;
 import nao.logs.Log;
 import nao.movement.postures.*;
+import nao.sound.Voice;
 
 public class NAO {
     private String name;
     private Application application;
     private Posture posture;
+    private Voice voice;
 
     public NAO(String name) {
         this.name = name;
@@ -21,6 +23,7 @@ public class NAO {
         // Connect to application
         this.application = new Application(new String[]{}, robotUrl);
         application.start();
+        this.voice = new Voice(this.name, this.application.session());
         Log.newLog(this.name +" is Connected!");
     }
 
@@ -44,6 +47,10 @@ public class NAO {
         robotPosture.goToPosture("Sit", 0.6f);
         this.posture = new Sitting(this.name, this.application.session());
         Log.newLog(this.name + " is in siting position");
+    }
+
+    public Voice getVoice() {
+        return voice;
     }
 
     public Posture getPosture() {
