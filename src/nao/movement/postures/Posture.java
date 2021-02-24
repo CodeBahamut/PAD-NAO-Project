@@ -14,13 +14,14 @@ public abstract class Posture {
         this.session = session;
     }
     public void walk(float walkingX, float walkingY, float theta, int waitInMilliseconds) throws Exception {
-        System.out.println(this.session + " can\'t walk");
+        System.out.println(this.name + " can\'t walk");
         Log.newLog( this.name + " can\'t succeed this function, because it\'s not in a standing position.");
     }
 
     public void moveLimb(String limbs, float angle, float maxSpeed, int waitInMilliseconds) throws Exception {
         ALMotion motion = new ALMotion(this.session);
         motion.angleInterpolationWithSpeed(limbs, angle, maxSpeed);
+        Thread.sleep(waitInMilliseconds);
         Log.newLog(this.name + " " + limbs + " set to " + angle + "f with " + maxSpeed + "f speed waiting for " + waitInMilliseconds + "milliseconds");
     }
 }
